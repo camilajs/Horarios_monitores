@@ -12,6 +12,7 @@ class Splashscreen extends StatelessWidget{
         body: 
           const Center(
             child: Image(image: AssetImage("images/logo.png")),
+            nome
       )));
   }
 }
